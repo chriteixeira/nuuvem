@@ -1,13 +1,14 @@
 {
-  "name": "nuuvem-price-check",
+  "name": "nuuvem",
   "version": "0.0.1",
-  "description": "A price check module for nuuvem.com.br",
+  "description": "git i",
   "keywords": [
     "nuuvem",
     "nuuvem.com.br",
     "price",
     "preço",
-    "webcrawler"
+    "scraper",
+    "webscraper"
   ],
   "main": "index.js",
   "scripts": {
@@ -15,6 +16,10 @@
   },
   "author": "chriteixeira",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chriteixeira/nuuuvem.git"
+  },
   "devDependencies": {
     "chai": "4.1.2",
     "eslint": "4.15.0",
