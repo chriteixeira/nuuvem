@@ -5,7 +5,7 @@ A price checker for nuuvem.com.br . Since nuuvem.com.br don't have a price API, 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat)](http://doge.mit-license.org)
 [![Build Status](https://travis-ci.org/chriteixeira/nuuvem.svg?branch=master)](https://travis-ci.org/chriteixeira/nuuvem)
 
-[![NPM](https://nodei.co/npm/nuuvem.png?downloads=true&downloadRank=true)](https://nodei.co/npm/winston/)
+[![NPM](https://nodei.co/npm/nuuvem.png?downloads=true&downloadRank=true)](https://nodei.co/npm/nuuvem/)
 
 ## Installation
 
