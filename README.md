@@ -1,6 +1,6 @@
 # nuuvem
 
-A price checker for nuuvem.com.br . Since nuuvem.com.br don't have an price API, this code will search for a game name by it's name and return the matching results.
+A price checker for nuuvem.com.br . Since nuuvem.com.br don't have a price API, this code will search for a game by it's name and return the matching results title, link and price information.
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat)](http://doge.mit-license.org)
 [![Build Status](https://travis-ci.org/chriteixeira/nuuvem.svg?branch=master)](https://travis-ci.org/chriteixeira/nuuvem)
