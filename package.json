@@ -21,16 +21,16 @@
     "url": "git@github.com:chriteixeira/nuuuvem.git"
   },
   "devDependencies": {
-    "chai": "4.1.2",
-    "eslint": "4.15.0",
-    "eslint-plugin-mocha": "4.11.0",
-    "jsdoc": "3.5.5",
-    "mocha": "4.1.0"
+    "chai": "^4.2.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-mocha": "^6.2.2",
+    "jsdoc": "^3.6.3",
+    "mocha": "^7.0.1"
   },
   "dependencies": {
-    "cheerio": "1.0.0-rc.2",
-    "request": "2.83.0",
-    "request-promise": "4.2.2",
-    "winston": "2.4.0"
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "winston": "^3.2.1"
   }
 }
